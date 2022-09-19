@@ -35,6 +35,8 @@ Entreprises cherchant stagiaires
 - Standart SEO
 - Utilisations des différents médias (vidéos, photos)
 - Compatibilité tous navigateurs + version mobile
+- Accessibilité AA minimum, si possible AAA
+- Images responsive (optimisation, taille, ...)
 
 ## Graphisme
 
@@ -47,10 +49,11 @@ Accueil ->
             Cursus ->
                       Présentation ->
                                       Grille cours ->
-                                                      Présentation
-                                                      Méthodologie
-                                                      Projets étudiants
-                                                      Programme utilisés
+                                                       Cours ->
+                                                                 Présentation
+                                                                 Méthodologie
+                                                                 Projets étudiants
+                                                                 Programmes utilisés
                       Nos anciens
                       Nos profs
             
@@ -63,7 +66,7 @@ Accueil ->
                       FAQ
             
             Blog ->
-                      Forum
+                      Forum d'échanges
             
             Actus ->
                       Event , Articles
@@ -79,7 +82,8 @@ Accueil ->
                     CSS
                     HTML
                     JS
-                    Liens utiles
+                    GitHub
+                    Liens utiles (Behance, Alsacreation, ...)
 
 
 ##Mots-clés
