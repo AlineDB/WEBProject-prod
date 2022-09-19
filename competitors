@@ -74,10 +74,28 @@ CAMPUS: présentation, accès, (ajouter salles, cantine, organisation basiques)
 
 [Lien](https://www.heaj.be/fr/formations/bacheliers/1ere-bac-techniques-infographiques/)
 
+### Page bachelier
 Présentation du bachelier avec vidéos
 liste des cours cliquable
 Petit plus avec valeurs
 grille des cours
 liste des métiers/débouchés
 adresse
-news (actus)
+
+### Page campus
+présentation, méthodologie, actus campus
+
+### Page actus
+news (actus) partageable et prévisualisation réseaux sociaux (API)
+
+### Page d'un cours
+Bref réusmé du cours, matière abordée selon l'année (1/2/3)
+Expo virtuelles de travaux
+Site internet des étudiants
+Débouchés métiers spécifiques
+mail coordinateur/responsable cours
+Grille des cours
+
+### Footer
+
+Formations, Services, autres, école
