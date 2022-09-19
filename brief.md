@@ -16,6 +16,8 @@ HEPL bachelier techniques graphiques option web
 
 (Jeunes) (futurs) étudiants
 
+Professionnels 
+
 Entreprises cherchant stagiaires
 
 ## Stratégie
@@ -26,7 +28,7 @@ Entreprises cherchant stagiaires
 - Réseau entreprises (présentations + métiers + offre stage)
 - Actualités (event) + possibilité d'épingler à la page d'accueil une actu 
 - Forum/blog (filtre: catégories, auteurs, date)
-- Newsletters
+- Newsletters (inscription)
 - Présenter HEPL (présentation, FAQ, réglementation, ...)
 - Form contact (structuré selon profil et demande -> étudiants/entreprises/autres)
 - Infos pratiques et valeurs (glossaire, tutos, ...)
@@ -45,6 +47,8 @@ Entreprises cherchant stagiaires
 - Champs recherche
 - Pagination
 - Filtrer
+- RGPD, conditions d'utilisation
+- Administration et rôles
 
 ## Graphisme
 
@@ -65,6 +69,7 @@ Entreprises cherchant stagiaires
                                                                  Programmes utilisés
                       Nos anciens ->
                                     Fiche individuelle (présentation, projets, métiers, anecdotes cursus, conseil)
+                                    Fiche par année scolaire (diplômés, travaux choisis projets clients (lien vers le projet), actus cette année-là (lien), ...)
                       Nos profs ->
                                     Fiche individuelle (présentation, cours donnés, citations/phrases fétiche)
             HEPL/Campus ->
@@ -74,8 +79,10 @@ Entreprises cherchant stagiaires
                       Explication ECTS
                       Services (CE, service étudiants, qualité de vie, aides financières, salle études vacances)
                       FAQ
+                        !!certaines infos sont directement sur le site HEPl, faire un résumé et faire un lien vers la page concernés poiur + d'infos
             Blog ->
-                      Forum d'échanges (lecture -> connecté pour poster/commenter)
+                      Forum d'échanges (lecture pour tous -> connecté pour poster/commenter/modif/delete)
+                        !! Modération page spécifique post en attente, new post, ...
             Actus ->
                       Event , Articles
             Réseaux ->
@@ -95,6 +102,7 @@ Entreprises cherchant stagiaires
                     Connexion
                     Déconnexion
                     Profil (update/delete) nom, mail,photo profil, mdp
+                    Selon rôle voir si ajoute page administration avec contact entre modérateurs/admin/autres et notifications directement via cette page ou pas
                     
 
 
