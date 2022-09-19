@@ -43,7 +43,43 @@ Entreprises cherchant stagiaires
 
 ## Arborescence
 
-
+Accueil ->
+            Cursus ->
+                      Présentation ->
+                                      Grille cours ->
+                                                      Présentation
+                                                      Méthodologie
+                                                      Projets étudiants
+                                                      Programme utilisés
+                      Nos anciens
+                      Nos profs
+            
+            HEPL/Campus ->
+                      Présentation HEPL
+                      Présentation Campus Parc Marêts
+                      Réglement
+                      Explication ECTS
+                      Services (CE, service étudiants, qualité de vie)
+                      FAQ
+            
+            Blog ->
+                      Forum
+            
+            Actus ->
+                      Event , Articles
+            
+            Réseaux ->
+                      Entreprises
+                      Offre stage
+            
+            Contact ->
+                      Formulaire
+            
+            Tutos ->
+                    CSS
+                    HTML
+                    JS
+                    Liens utiles
 
 
 ##Mots-clés
