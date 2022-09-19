@@ -1,4 +1,4 @@
-# Existe
+# Concurrents
 
 ## Transmedia
 
@@ -18,9 +18,9 @@ Lien Facebook et Twitter
 
 Petit mot sur le cursus, bloc peojets avec photos et lien vers la page projets
 
-Bloc savoir + qui envoi vers devenir étudiants
+Bloc savoir + qui envoie vers devenir étudiants
 
-Bloc actus avec dernier articles
+Bloc actus avec derniers articles
 
 
 ### Projets
@@ -33,7 +33,8 @@ Image mise en avant cliquable
 Date, auteur(s), partage, lien site, tag(s)
 Petit mot explicatif puis paragraphe des étapes
 
-### Actus même modèles que projets
+### Actus 
+même modèles que projets
 
 ### Devenir étudiants
 
@@ -57,22 +58,22 @@ Philosophie, but, prérequis,
 
 ## HEPL
 
-[Lien](https://www.hepl.be)
+[Lien site](https://www.hepl.be)
 
-Inscriptiosn, FAQ, cout,
+Inscription, FAQ, cout,
 Explications du cursus
 Documents
 Outils HEPL
 Présentation HEPL
 Agenda
 CE, secrétariat étudiants, qualité de vie,
-CAMPUS: présentation, accès, (ajouter salles, cantine, organisation basiques)
+CAMPUS: présentation, accès, (à ajouter salles, cantine, organisation basiques)
 
 
 
 ## HEAJ
 
-[Lien](https://www.heaj.be/fr/formations/bacheliers/1ere-bac-techniques-infographiques/)
+[Lien site](https://www.heaj.be/fr/formations/bacheliers/1ere-bac-techniques-infographiques/)
 
 ### Page bachelier
 Présentation du bachelier avec vidéos
