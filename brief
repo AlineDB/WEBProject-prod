@@ -1,14 +1,20 @@
 # Cahier des charges
 
-##Besoins
+## Entreprise
 
+HEPL bachelier techniques graphiques option web
+
+## Besoins
+
+- Site vitrine de présentation
 - Promouvoir l'option Web du bachelier en techniques graphiques
 - Attirer des étudiants
 - Métiers en pénurie (entreprises cherchent)
 
 ## Public cible
 
-Jeunes (futurs) étudiants
+(Jeunes) (futurs) étudiants 
+Entreprises cherchant stagiaires
 
 ## Stratégie
 
@@ -24,8 +30,33 @@ Jeunes (futurs) étudiants
 - Form contact
 - Infos pratiques et valeurs (glossaire, tutos, ...)
 - Présenter programme (tableau, fiche ECTS) et présentation profs (fiche perso)
+- Partager certains contenus
+- Traduction (EN, FR, ALL, NL)
+- Standart SEO
+- Utilisations des différents médias (vidéos, photos)
+- Compatibilité tous navigateurs + version mobile
+
+## Graphisme
+
+- Libre
+- Utilisation du logo HEPL
+
+## Arborescence
+
+
 
 
 ##Mots-clés
 
 bechelier, web, école, design,
+
+
+## Dates-clés
+
+19/09 cahier des charges
+26/09 wireframe texte naviguation
+3/10 Wireframe
+10/10 Design
+
+Jury janvier: remise du projet terminé
+
