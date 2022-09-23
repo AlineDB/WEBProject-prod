@@ -224,12 +224,19 @@ bachelier, web, école, design, études supérieures,
 ## Dates-clés
 
 19/09 cahier des charges première ébauche
+
 26/09 cahier des charge terminé à valider + wireframe texte navigation ébauche + Persona première ébauche
+
 28/09 cahier des charges validé + wireframe textuel terminé à valider + persona à valider
+
 3/10 Wireframe première ébauche + textuel validé + persona validé
+
 5/10 Wireframe à valider
+
 10/10 Design version mobile + Wireframe validé
+
 12/10 Design Desktop
+
 17/10 Design à valider
 
 
