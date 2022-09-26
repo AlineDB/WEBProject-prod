@@ -173,9 +173,6 @@ Le site doit :
                                                                  Projets étudiants -> 
                                                                                         Fiche individuelle (présentation, photos, étapes)
                                                                  Programmes utilisés
-                      Nos anciens ->
-                                    Fiche individuelle (présentation, projets, métiers, anecdotes cursus, conseil)
-                                    Fiche par année scolaire (diplômés, travaux choisis projets clients (lien vers le projet), actus cette année-là (lien), ...)
                       Nos profs ->
                                     Fiche individuelle (présentation, cours donnés, citations/phrases fétiche)
             HEPL/Campus ->
@@ -190,22 +187,26 @@ Le site doit :
                         !! Modération page spécifique post en attente, new post, ...
             Actus ->
                       Event , Articles
-            Réseaux ->
+            Partenaires ->
                       Entreprises ->
                                     Fiche individuelle (présentation, métiers)
                       Offre stage ->
                                     Actives
                                     Archives
+            Alumni->
+                        Fiche individuelle (présentation, projets, métiers, anecdotes cursus, conseil)
+                                    Fiche par année scolaire (diplômés, travaux choisis projets clients (lien vers le projet), actus cette année-là (lien), ...)
             Contact ->
                       Formulaire
             Tutos ->
                     Glossaire
-                    CSS
-                    HTML
-                    JS
-                    GitHub
-                    PHP
-                    Liens utiles (Behance, Alsacreation, W3C, ...)
+                    Thèmes ->
+                            CSS
+                            HTML
+                            JS
+                            GitHub
+                            PHP
+                    Documentation (Behance, Alsacreation, W3C, Laravel, ...)
             Compte -> 
                     Connexion
                     Déconnexion
@@ -238,4 +239,6 @@ bachelier, web, école, design, études supérieures,
 17/10 Design à valider
 
 Jury janvier 2023 : présentation du projet terminé
+
+## Design
 

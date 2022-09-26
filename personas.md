@@ -32,7 +32,7 @@ Il suit les tutos qui l'intéressent et souhaite échanger avec d'autres utilisa
 Gaston a 24 ans et n'a jamais été très sûr de lui. Très timide, il préfère les méthodes de communication écrite et des cours virtuels.
 Par contre il sait exactement ce qu'il veut : être developpeur web back end.
 Il cherche donc un bachelier en web complet. Il a parcouru le site qu'un ami lui a conseillé et aimerait en savoir plus sur le cursus et les débouchés.
-Il aimerait prendre contact avec les profs des cours de back end afin de mieux cerné ce qu'il y est enseigné.
+Il aimerait prendre contact avec les profs des cours de back end afin de mieux cerner ce qu'il y est enseigné.
 Il aimerait voir si un étudiant/ancien étudiant dispose du même profil que lui et avoir son retour sur ce qu'il en pense et son avenir.
 
 
