@@ -10,6 +10,8 @@ Vous trouverez une analyse des sites concurrents dans ce [fichier](competitors.m
 
 Vous trouverez les personas dans ce [fichier](personas.md)
 
+Voici un aperçu de la navigation (cliquable) -> [tester](Wireframe_textuel_projetweb.xd)
+
 Vous trouverez le wireframe dans ce fichier (en cours)
 
 Vous trouverez le moodboard ici (en cours)

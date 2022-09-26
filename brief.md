@@ -156,6 +156,7 @@ Le site doit :
 - Contenir du CSS (à voir)
 - Contenir du Javascript (à voir)
 - Profil utilisateur (page profil avec edit/delete)
+- La page d'accueil reprend les dernières infos des diverses pages importantes: dernières actus, derniers projets ajoutés, un petit mot et une image mise en avant (logo, photo ou illustration) avec un lien pour diriger vers une page avec un contenu pertinent (menu principal). Etablir des pages intermédiaires pour présenter sous la même forme les divers contenus du sous-menu (voir arborescence).
 
 ## Graphisme
 
