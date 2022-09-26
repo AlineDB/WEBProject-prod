@@ -55,7 +55,7 @@ liens utiles (git, XD, site, ...).
 - Un encart avec un mot de l'auteur ou d'un prof sur les difficultés rencontrées ou compétences acquises ou anecdote du projet.
 
 **2)** Visibilité des anciens étudiants (fiche individuelle CV/interview/..., débouchés/métiers)Permet de mieux cerner les débouchés possibles, quelles compétences pour quel métier, ... Voir que tous les cours amène au monde du travail.
-- Chaque page contiendra une photo de l'étudiant. Une section présentation avec une CV résumé (infos pertinentes sur son parcours).
+- Chaque page contiendra une photo de l'étudiant. Une section présentation avec un CV résumé (infos pertinentes sur son parcours).
 - Une vidéo interview reprenant son parcours, ses attentes en début de cursus et le bilan en fin de cursus. Les compétences qu'il a acquit et quel métier il exerce ou a exercé grâce à cela.
 - Un conseil/phrase pour les étudiants d'aujourd'hui. 
 - Un encart avec des liens utiles (un git, ou portfolio ou ...)
@@ -64,8 +64,7 @@ liens utiles (git, XD, site, ...).
 - Le menu réseau propose deux pages. La première présente les entreprises. Une image sera mise en avant et utilisée dans la liste des entreprises partenaires.
 - Chaque entreprise aura sa fiche individuelle avec la photo, ses coordonnées, les anciens étudiants ayant travaillé ou travaillant chez eux (avec lien vers leur fiche perso si elle existe), une ou deux phrases expliquant leur travail/méthode et le lien de leur site.
 - La seconde page affiche les offres de stage actives. Il sera possible de voir les offres archivées également. Une liste de photo avec l'intitulé du poste et le lieu de stage sera affichée.
-- Chaque offre disposera de sa propre page avec toujours la même photo et ressemblera à la fiche individuelle de l'entreprise sauf qu'une section supplémentaire sera ajoutée avec le(s)
-offre(s) en cours. Celle(s)-ci aura(ont) donc l'intitulé du poste et un descriptif de la fonction. Une liste des compétences demandées/développées ainsi que les coordonnées de contact de l'entreprise.
+- Chaque offre disposera de sa propre page avec toujours la même photo et ressemblera à la fiche individuelle de l'entreprise sauf qu'une section supplémentaire sera ajoutée avec le(s) offre(s) en cours. Celle(s)-ci aura(ont) donc l'intitulé du poste et un descriptif de la fonction. Une liste des compétences demandées/développées ainsi que les coordonnées de contact de l'entreprise.
 - Une date de publication sera également intégrée avec une date de fin. L'offre sera archivée soit manuellement soit une fois la date dépassée.
 
 **4)** Actualités (event) + possibilité d'épingler à la page d'accueil une actu. Les actus et événements du cursus afin de suivre presque en temps réel ce qu'il s'y passe.
@@ -75,21 +74,19 @@ offre(s) en cours. Celle(s)-ci aura(ont) donc l'intitulé du poste et un descrip
 
 **5)** Forum/blog (filtre: catégories, auteurs, date). Intéragir, poser des questions, échanger sur une matière avec des étudiants ou des profs permet de montrer que le cursus est ouvert et accessible à tous. On peut aussi l'utiliser afin de communiquer des notions de cours ou des infos utiles.
 - Le forum se présentera comme beaucoup de forum sous forme de tableau. Un topic reprendra le titre, la date de publication, la date du dernier ajout/commentaires. 
-- Il y aura des sections à définir par exemple: cursus pour toute les questions liées au cursus avec dedans des topics pour chaque cours, HEPL pour tout ce qui a attrait aux renseignements pratiques et structurelles
+- Il y aura des sections à définir par exemple: cursus pour toutes les questions liées au cursus avec dedans des topics pour chaque cours, HEPL pour tout ce qui a attrait aux renseignements pratiques et structurels, ...
 - Une section nos anciens/nos profs vous répondes ou plus ouvertes.
 - Possibilité de suivre un topic en cochant/décochant (recevoir un mail lors d'un ajout de commentaire)
 
 
 
-**6)** Newsletters (inscription). Recevoir les dernières actus, derniers articles du cursus permet de garder ses utilisateurs informés et de les faire revenir sur le site.
-- Dans le footer un champs mail afin d'entrer son adresse et s'inscrire à la newsletters. Cela permet de recevoir un mail quand une nouvelle actu est postée ou quand un admin veux communiquer
-une info.
+**6)** Newsletters (inscription). Permet de recevoir les dernières actus, derniers articles du cursus afin de garder ses utilisateurs informés et de les faire revenir sur le site.
+- Dans le footer un champs mail disponible afin d'entrer son adresse et s'inscrire à la newsletters. Cela permet de recevoir un mail quand une nouvelle actu est postée ou quand un admin veux communiquer une info.
 
-**7)** Présenter HEPL (présentation, FAQ, réglementation, ...). Beaucoup d'informations utile pour la HEPL et plutôt orienté structure : crédits, prix, services, ... Des informations de base et pertinentes. Ceci se divisera en plusieurs sous-menu: 
+**7)** Présenter HEPL (présentation, FAQ, réglementation, ...). Beaucoup d'informations utiles pour la HEPL et plutôt orienté structure : crédits, prix, services, ... Des informations de base et pertinentes. Ceci se divisera en plusieurs sous-menu: 
 - Présentation: La présentation de la HEPL en quelques lignes et une photo du bâtiment qui nous concerne. Ses valeurs et un mot de réglementation si besoin plus le lien vers le site.
 - Campus: Présentation du campus en quelques lignes et infos utiles sur les sandwiches (photo du réfectoire), le plan avec le nom des salles (image ou textuel), les horaires de la mediathèque (avec photo de celle-ci).
-- Services: Présentation des différents services (tutorat, CE, service étudiants, qualité de vie, aides financières, salle études vacances) illustrés par une photo, un mot explicatif sur leur fonction, leurs
-coordonnées et s'il y a les liens vers réseaux/sites.
+- Services: Présentation des différents services (tutorat, CE, service étudiants, qualité de vie, aides financières, salle études vacances) illustrés par une photo, un mot explicatif sur leur fonction, leurs coordonnées et s'il y a, les liens vers réseaux/sites.
 - FAQ: sous forme de liste, les questions qui reviennent souvent (à enrichir selon les questions posées dans le forum). Le coût, les crédits, finançables ou pas, ... Des questions basiques seront déjà intégrées avec si possible un lien vers un article plus complet (externe ou renvoyant sur une page du site de la HEPL).
 
 
@@ -100,9 +97,9 @@ coordonnées et s'il y a les liens vers réseaux/sites.
 
 
 **9)** Dans les cours il y aura plusieurs sous-pages.
-- Présentation: Présenter programme (tableau, fiche ECTS). Cela était déjà compliqué de comprendre les crédits, le fonctionnement ect ... mais avec le décret paysage, il vaut mieux bien expliquer comment fonctionne le bachelier et les moments clés. Il faudra penser aux fichier téléchargeables. Une grille ou liste des cours cliquable sera présentée.
+- Présentation: Présenter programme (tableau, fiche ECTS). Cela était déjà compliqué de comprendre les crédits, le fonctionnement ect ... mais avec le décret paysage, il vaut mieux bien (ré)expliquer comment fonctionne le bachelier et les moments clés. Il faudra penser aux fichiers téléchargeables. Une grille ou liste des cours cliquable sera présentée.
 
-Pour chaque cours une page sera créer avec plusieurs sections:
+Pour chaque cours une page sera créée avec plusieurs sections:
 - Méthodologie: Comment il est enseigné, quel est son but, des citations des profs sur leur vision/anectode.
 - Deux ou trois Projets étudiants mis en avant (titre, photo, surface cliquable renvoyant vers le projet complet voir point 1)
 - Programmes utilisés (logo + noms)
@@ -111,7 +108,7 @@ Pour chaque cours une page sera créer avec plusieurs sections:
 Pour les pages anciens voir point 2.
 
 - Présentation profs (fiche perso). Que serait le cursus sans ses profs ? Les présenter autrement que comme de "simple" prof avec leur ligne conductrice, leur savoir-faire, ...
-Une liste des profs avec une carte par prof dans le même esprits que les cartes anciens étudiants qui amène ensuite vers une fiche perso toujours dans le même esprit que les fiche étudiants. 
+Une liste des profs avec une carte par prof dans le même esprit que les cartes anciens étudiants qui amène ensuite vers une fiche perso toujours dans le même esprit que les fiches étudiant. 
 
 
 **10)** Apprendre (glossaire et tutos). Outre informer il est important aussi de soutenir et d'aider. 
@@ -125,9 +122,9 @@ Plusieurs chapitres selon les matières abordées avec deux tutos mis en avant (
 
 - Infos pratiques et valeurs. Des réponses à des questions plutôt d'organisation ou de méthodologie.
 - Partager certains contenus. Les utilisateurs aiment partager ce qu'ils trouvent intéressants, pertinents ou encore amusants, importants, ... On doit intégrer la notion de partage sur les réseaux.
-- Soit dans le footer ou dans une section dans la page, un aperçu grâce à une API de la page facebook du cursus et/ou HEPL ainsi que l'instagram. Définir où cela serait pertinent (pour HEPL dans sa page de présentation, le cursus dans le footer pour être visible tout le temps, pour le CE à la page de présentation des service, ...).
+- Soit dans le footer ou dans une section dans la page, un aperçu grâce à une API de la page facebook du cursus et/ou HEPL ainsi que l'instagram. Définir où cela serait pertinent (pour HEPL dans sa page de présentation, le cursus dans le footer pour être visible tout le temps, pour le CE à la page de présentation des services, ...).
 
-**12)**  Page profil. Vu qu'il y a un blog/forum et la possibilité d'effectuer des tests via les tutos, il faut donc un profil utilisateurs, des admins et des rôles.
+**12)** Page profil. Vu qu'il y a un blog/forum et la possibilité d'effectuer des tests via les tutos, il faut donc un profil utilisateurs, des admins et des rôles.
 
 - Bouton de (dé)connexion disponible en permanence.
 - Page profil avec avatar, nom, prénom, mail, tableau de score tutos, nombre de commentaires écrits.
@@ -239,7 +236,6 @@ bachelier, web, école, design, études supérieures,
 12/10 Design Desktop
 
 17/10 Design à valider
-
 
 Jury janvier 2023 : présentation du projet terminé
 
