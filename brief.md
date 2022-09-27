@@ -175,6 +175,8 @@ Le site doit :
                                                                  Programmes utilisés
                       Nos profs ->
                                     Fiche individuelle (présentation, cours donnés, citations/phrases fétiche)
+                    Projets étudiants ->
+                                    Fiche individuelle (présentations, photos, étapes)
             HEPL/Campus ->
                       Présentation HEPL + Réglement
                       Présentation Campus Parc Marêts (salles, organisation sandwich, bibli, ...)
@@ -194,8 +196,8 @@ Le site doit :
                                     Actives
                                     Archives
             Alumni->
-                        Fiche individuelle (présentation, projets, métiers, anecdotes cursus, conseil)
-                                    Fiche par année scolaire (diplômés, travaux choisis projets clients (lien vers le projet), actus cette année-là (lien), ...)
+                        Fiche individuelle (présentation, projets, métiers, anecdotes cursus, conseil
+                        Fiche par année scolaire (diplômés, travaux choisis projets clients (lien vers le projet), actus cette année-là (lien), ...)
             Contact ->
                       Formulaire
             Tutos ->
@@ -240,5 +242,27 @@ bachelier, web, école, design, études supérieures,
 
 Jury janvier 2023 : présentation du projet terminé
 
-## Design
+## Proposition
 
+Au vue des objectifs, du public cible, de la stratégie définie et des autres impératifs repris dans les points ci-dessus, j'ai créé le wireframe [que vous trouverez ici](https://xd.adobe.com/view/ad462604-2311-4bfc-bca9-4fd852eb487e-f815/). Celui-ci reprend les pages du site et les contenus qui y seront intégrés.
+Le site disposera d'un méga-menu avec sous-menu en-tête de page (position fixe) et d'un menu sous forme de liste dans le pied de page avec les liens vers les réseaux et le champs d'inscription à la newsletters. Figurera également l'adresse de notre campus, le numéro de téléphone et mail de notre section.
+
+#### Page d'accueil
+La page d'accueil contiendra une partie avec du contenu fixe afin d'expliquer en deux lignes les informations que l'on peut trouver dans les items primaires du menu (leur sous-menu) et un lien qui dirige directement vers la page des sous-menu. Ce qui comporte un bloc pour la HEPL et le cursus, un bloc pour les alumni illustré par une vidéo d'un des anciens étudiants (le plus récent ajouté) et ses informations (nom, société, métier et date d'obtention du diplôme) avec un lien pour voir la fiche individuelle et un lien pour voir tous les anciens et un bloc pour les partenaires. A part le bloc alumni, les blocs seront tous illustrés par une photo en fond.
+La deuxième partie du contenu de la page d'accueil sera la partie de contenu dynamique avec les deux dernières actus, deux derniers tutos et deux derniers topics. Chacun affichera le titre, la date de publication, un résumé en 2/3 lignes et sera cliquable sur toute sa surface délimitée par un fond coloré transparent. Sous chaque duo de carte, un bouton pour aller sur la page générale concernée (tutos, blog ou actus).
+
+#### Page cursus
+
+La page ressemblera à la page d'accueil avec deux parties: contenu fixe et dynamique.
+La partie dynamique restera identique.
+La partie fixe sera similaire au niveau présentation avec un bloc pour chaque sous-menu: présentation, nos cours, nos profs et projets étudiants.
+Le bloc nos cours et nos profs ainsi que celui pour les projets étudiants seront illustrés avec une image en fond et un fond sur le contenu légèrement transparent.
+Le bloc de présentation du cursus sera composé d'une vidéo (la vidéo sera à tourner et monter en partenariat avec les étudiants du cursus 3D/vidéo si possible sinon des vidéos similaires ont été publiées sur le Facebook et Instagram de l'école et du cursus).
+Chaque bloc disposera d'un bouton qui enverra directement à la page concernée.
+
+#### Page HEPL
+
+Elle sera exactement comme la page cursus, juste le contenu qui change à savoir : présentation, notre campus, crédits ECTS, services et FAQ.
+Le bloc campus et services sera comme le bloc cours et profs, avec en fond une image et sous le contenu un bloc coloré légèrement transparent. Chacun disposera d'un lien vers sa page dédiée.
+Le bloc présentation sera une vidéo présentant le HEPL et d'un lien vers le site de celle-ci.
+Le dernier bloc concerne la FAQ avec un lien vers les questions/réponses les plus courantes.
