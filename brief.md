@@ -72,7 +72,7 @@ liens utiles (git, XD, site, ...).
 - La carte actualité affichée à la page d'accueil et dans la liste des actus contiendra une photo, un titre, la date et un bref résumé. Elle sera cliquable sur toute sa surface.
 - La page d'une actu contiendra la photo, le titre, le texte de l'article, la date, l'auteur et la(les) catégorie(s) (attention au lien externe!).
 
-**5)** Forum/blog (filtre: catégories, auteurs, date). Intéragir, poser des questions, échanger sur une matière avec des étudiants ou des profs permet de montrer que le cursus est ouvert et accessible à tous. On peut aussi l'utiliser afin de communiquer des notions de cours ou des infos utiles.
+**5)** Forum (filtre: catégories, auteurs, date). Intéragir, poser des questions, échanger sur une matière avec des étudiants ou des profs permet de montrer que le cursus est ouvert et accessible à tous. On peut aussi l'utiliser afin de communiquer des notions de cours ou des infos utiles.
 - Le forum se présentera comme beaucoup de forum sous forme de tableau. Un topic reprendra le titre, la date de publication, la date du dernier ajout/commentaires. 
 - Il y aura des sections à définir par exemple: cursus pour toutes les questions liées au cursus avec dedans des topics pour chaque cours, HEPL pour tout ce qui a attrait aux renseignements pratiques et structurels, ...
 - Une section nos anciens/nos profs vous répondes ou plus ouvertes.
@@ -184,7 +184,7 @@ Le site doit :
                       Services (CE, service étudiants, qualité de vie, aides financières, salle études vacances)
                       FAQ
                         !!certaines infos sont directement sur le site HEPl, faire un résumé et faire un lien vers la page concernés poiur + d'infos
-            Blog ->
+            Forum ->
                       Forum d'échanges (lecture pour tous -> connecté pour poster/commenter/modif/delete)
                         !! Modération page spécifique post en attente, new post, ...
             Actus ->
@@ -266,3 +266,15 @@ Elle sera exactement comme la page cursus, juste le contenu qui change à savoir
 Le bloc campus et services sera comme le bloc cours et profs, avec en fond une image et sous le contenu un bloc coloré légèrement transparent. Chacun disposera d'un lien vers sa page dédiée.
 Le bloc présentation sera une vidéo présentant le HEPL et d'un lien vers le site de celle-ci.
 Le dernier bloc concerne la FAQ avec un lien vers les questions/réponses les plus courantes.
+
+
+#### Page forum
+
+La page du forum se composera d'un sous menu fixe avec en item: bouton accueil pour revenir à l'accueil du forum. Un bouton nouveau topic pour écrire un topic (il faudra être connecté pour faire apparaître cet item ainsi que celui d'ajout de commentaire), un item catégories qui permet de trier par catégorie, un item auteur pour trier par auteur un item suivi pour filtrer selon les topics suivi et un item date pour trier du plus récent au plus anciens.
+Un champs de recherche sur le forum sera implémenté. 
+Une liste de carte de topics avec pour chacune l'auteur (avec un badge si rôle) et son avatar, le titre du topic, sa date de publication, un aperçu du texte (max 3 ou 4 lignes),le nombre de commentaires total, l'icone pour suivre le topic et l'icone de partage sur les réseaux. Seront épinglés catégories du topic (max 3). 
+Un topic peut-être fermé, cela sera visible grâce à un petit cadenas fermé en haut de la carte du topic. Il ne sera plus possible de commenter se topic.
+Une icone représentant le rôle de l'auteur s'il en a un sera affiché à côté de son nom. (administrateur, modérateur). Il aura la possibilité de supprimer un commentaire et de fermer un topic. Il pourra toujours ajouter un commentaire.
+
+#### Page d'un topic
+
